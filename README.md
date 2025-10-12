@@ -1,5 +1,6 @@
-<h1 align="center">🌑 Kediven</h1>
-<h3 align="center"><em>student • developer • enigma</em></h3>
+<h1 align="center">🌑✨ Kediven ✨🌑</h1>
+<h3 align="center"><em>🎓 student • 💻 developer </em></h3>
+
 
 ---
 
