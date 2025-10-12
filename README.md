@@ -12,6 +12,6 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/gqCHYDE.gif" width="260" alt="dark mysterious gif"/>
+  <img src="https://media.tenor.com/xEjIxlS14NMAAAAC/glitch-dark.gif" width="260" alt="dark mysterious gif"/>
 </p>
 
