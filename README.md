@@ -12,5 +12,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/kediven/kediven/blob/main/tumblr_static_tumblr_static_5btconvca0sgogckgco8oc00k_focused_v3.gif?raw=true" width="260" alt="dark mysterious gif"/>
+  <img src="https://github.com/kediven/kediven/blob/main/tumblr_static_tumblr_static_5btconvca0sgogckgco8oc00k_focused_v3.gif?raw=true" width="500" alt="dark mysterious gif"/>
 </p>
