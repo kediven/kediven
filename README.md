@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/kediven/kediven/blob/main/tumblr_static_tumblr_static_5btconvca0sgogckgco8oc00k_focused_v3.gif?raw=true" width="500" alt="dark mysterious gif"/>
+  <img src="[https://github.com/kediven/kediven/blob/main/tumblr_static_tumblr_static_5btconvca0sgogckgco8oc00k_focused_v3.gif](https://github.com/kediven/kediven/blob/main/786342324992872ff3d3569053709e153539d602r1-447-480_hq.gif)?raw=true" width="500" alt="dark mysterious gif"/>
 </p>
 
 ---
