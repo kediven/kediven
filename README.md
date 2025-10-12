@@ -20,9 +20,20 @@
 
 ---
 
+<h3 align="center">🧩 Language focus</h3>
+
 <p align="center">
-  🧩 <strong>Language focus</strong> <br><br>
-  🟦 C — 40%  🟩 C++ — 25%  🟨 C# — 20%  🟥 Python — 15%
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kediven&layout=compact&theme=codeSTACKr&hide_border=true" width="400" alt="Language stats"/>
+</p>
+
+---
+
+<h3 align="center">📊 Activity & contributions</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kediven&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true" width="400" alt="GitHub stats"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=kediven&theme=dark&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=ffffff" width="400" alt="GitHub streak"/>
 </p>
 
 ---
