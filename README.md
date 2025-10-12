@@ -1,5 +1,5 @@
 <h1 align="center">🌘⚙️ Kediven ⚙️🌒</h1>
-<h3 align="center"><em>🎓 student • 💻 developer • 🕯️ enigma • 🌑 dreamer of code</em></h3>
+<h3 align="center"><em>🎓 student • 💻 developer</em></h3>
 
 ---
 
@@ -24,8 +24,6 @@
   🕯️ <strong>“I build. I learn. I disappear.”</strong> <br>
   <sub><em>And sometimes, I return with something new.</em></sub>
 </p>
-
----
 
 <p align="center">
   <sub><em>“In darkness, creation whispers.”</em></sub>
