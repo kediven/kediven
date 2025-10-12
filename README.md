@@ -12,5 +12,6 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/EYQ0zTh.gif" width="260" alt="dark mysterious gif"/>
+  <img src="https://i.imgur.com/gqCHYDE.gif" width="260" alt="dark mysterious gif"/>
 </p>
+
