@@ -1,6 +1,5 @@
-<h1 align="center">🌑✨ Kediven ✨🌑</h1>
-<h3 align="center"><em>🎓 student • 💻 developer </em></h3>
-
+<h1 align="center">🌘⚙️ Kediven ⚙️🌒</h1>
+<h3 align="center"><em>🎓 student • 💻 developer • 🕯️ enigma • 🌑 dreamer of code</em></h3>
 
 ---
 
@@ -24,12 +23,6 @@
 <p align="center">
   🕯️ <strong>“I build. I learn. I disappear.”</strong> <br>
   <sub><em>And sometimes, I return with something new.</em></sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kediven&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true" width="48%">
 </p>
 
 ---
