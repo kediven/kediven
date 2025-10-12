@@ -6,10 +6,9 @@
 <p align="center">
   🎓 <strong>Student at HEIG-VD</strong> <br>
   💻 <strong>C • C++ • C# • Python</strong> <br>
-  🧠 <em>Fascinated by systems that breathe quietly — logic and silence in balance.</em> <br>
   ⚙️ <em>Creating structures that speak through precision, not noise.</em> <br>
   🌘 <em>Between science and instinct — a search for meaning in the code.</em> <br>
-  🔮 <em>Sometimes seen. Mostly unseen.</em>
+  🧠 <em>Sometimes seen. Mostly unseen.</em>
 </p>
 
 ---
