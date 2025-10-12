@@ -33,7 +33,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kediven&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true" width="400" alt="GitHub stats"/>
   <br>
-  <img src="https://streak-stats.demolab.com?user=kediven&theme=dark&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=ffffff" width="400" alt="GitHub streak"/>
 </p>
 
 ---
