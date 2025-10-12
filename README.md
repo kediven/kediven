@@ -28,15 +28,6 @@
 
 ---
 
-<h3 align="center">📊 Activity & contributions</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kediven&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true" width="400" alt="GitHub stats"/>
-  <br>
-</p>
-
----
-
 <p align="center">
   🕯️ <strong>“I build. I learn. I disappear.”</strong> <br>
   <sub><em>And sometimes, I return with something new.</em></sub>
