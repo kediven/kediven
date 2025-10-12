@@ -21,6 +21,13 @@
 ---
 
 <p align="center">
+  🧩 <strong>Language focus</strong> <br><br>
+  🟦 C — 40%  🟩 C++ — 25%  🟨 C# — 20%  🟥 Python — 15%
+</p>
+
+---
+
+<p align="center">
   🕯️ <strong>“I build. I learn. I disappear.”</strong> <br>
   <sub><em>And sometimes, I return with something new.</em></sub>
 </p>
