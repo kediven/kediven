@@ -12,6 +12,5 @@
 ---
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/9a9ff51109a1b6cc8f5d82f3e3b6b4eb/tumblr_ozdb4syE8n1w8l8jmo1_540.gif" width="260" alt="dark gif"/>
+  <img src="https://i.imgur.com/EYQ0zTh.gif" width="260" alt="dark mysterious gif"/>
 </p>
-
