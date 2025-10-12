@@ -13,7 +13,8 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/kxZ6xgL.gif" width="100" alt="cute animation"/>
+  <img src="https://i.imgur.com/kxZ6xgL.gif" width="100" alt="cute animation"/>![tumblr_static_tumblr_static_5btconvca0sgogckgco8oc00k_focused_v3](https://github.com/user-attachments/assets/df240102-fe23-4796-b91c-215da377b67c)
+
 </p>
 
 ---
