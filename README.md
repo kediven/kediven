@@ -28,9 +28,3 @@
   <sub><em>“In darkness, creation whispers.”</em></sub>
 </p>
 
----
-<h3 align="center">🧩 Language focus</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kediven&layout=compact&theme=codeSTACKr&hide_border=true" width="400" alt="Language stats"/>
-</p>
